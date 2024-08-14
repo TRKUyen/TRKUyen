@@ -7,15 +7,15 @@
 <hr/>
 
 
- - 👩🏻‍💻 Frontend Developer sharing about my journey and learnings in tech<br/>
+ - 👩🏻‍💻 Frontend Developer sharing about my journey and learnings in tech.<br/>
  
- - 👩🏻‍🎓 Studied Information Technology at Sai Gon University, in Ho Chi Minh City<br/>
+ - 🌱 I’m currently learning **for more Frontend Framework like ReactJS, Angular and problem solving**<br/>
  
- - 🎨 Learning more video editor for creating some short video in anime post in my [Instagram](https://www.instagram.com/kimuyen425/) ✨<br/>
+ - 🎨 Learning more skills in editor✨<br/>
  
  - 🤖 Like game and anime but want to practice some skills in badminton 🏸 and basketball 🏀<br/>
  
- - 💭 Currently learning about frontend developer and aim to find frontend intern job!<br/>
+ - 💭 If you have any question just ask me. I would love to answer any question that you are asking for.<br/>
 
  - 📫 Feel free to reach me out **vouyen2042@gmail.com**
 
