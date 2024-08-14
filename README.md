@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Hi, I'm Uyen you can call me Kiwi (my lovely nickname)</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Hi, I'm Uyen you can call me Kiwi</h1></summary>
   </ul>
 </div>
 <hr/>
