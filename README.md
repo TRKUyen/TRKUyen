@@ -7,15 +7,15 @@
 <hr/>
 
 
- - 👩🏻‍💻 Frontend Developer sharing about my journey and learnings in tech.<br/>
+ - 👩🏻‍💻 I'm currently working for build my project<br/>
  
- - 🌱 I’m currently learning **for more Frontend Framework like ReactJS, Angular**<br/>
+ - 🌱 I’m currently learning **for more Frontend Framework like ReactJS, Angular, NextJS**<br/>
 
  - 🤖 Like game and anime but want to practice some skills in badminton 🏸 and basketball 🏀<br/>
 
- - ☁️ I've keen interest in data analysis. So I'm learning about **Python, PowerBI, SQL** <br/>
+ - ☁️ Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
  
- - 💭 If you have any question just ask me. I would love to answer any question that you are asking for.<br/>
+ - 💭 If you have any question just ask me. I would love to answer any question that you are asking for<br/>
 
  - 📫 Feel free to reach me out **vouyen2042@gmail.com**
 
