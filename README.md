@@ -9,7 +9,7 @@
 
  - 👩🏻‍💻 Frontend Developer sharing about my journey and learnings in tech<br/>
  
- - 👩🏻‍🎓 Studied [Information Technology](https://www.sgu.edu.vn/) at Sai Gon University, in Ho Chi Minh City<br/>
+ - 👩🏻‍🎓 Studied Information Technology at Sai Gon University, in Ho Chi Minh City<br/>
  
  - 🎨 Learning more video editor for creating some short video in anime post in my [Instagram](https://www.instagram.com/kimuyen425/) ✨<br/>
  
