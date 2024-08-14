@@ -9,11 +9,11 @@
 
  - 👩🏻‍💻 Frontend Developer sharing about my journey and learnings in tech.<br/>
  
- - 🌱 I’m currently learning **for more Frontend Framework like ReactJS, Angular and problem solving**<br/>
- 
- - 🎨 Learning more skills in editor✨<br/>
- 
+ - 🌱 I’m currently learning **for more Frontend Framework like ReactJS, Angular**<br/>
+
  - 🤖 Like game and anime but want to practice some skills in badminton 🏸 and basketball 🏀<br/>
+
+ - ☁️ I've keen interest in data analysis. So I'm learning about **Python, PowerBI, SQL** <br/>
  
  - 💭 If you have any question just ask me. I would love to answer any question that you are asking for.<br/>
 
