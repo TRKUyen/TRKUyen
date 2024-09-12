@@ -7,15 +7,15 @@
 <hr/>
 
 
- - 👩🏻‍💻 I'm currently working for build my project<br/>
+ - 👩🏻‍💻 I'm currently working on building my project<br/>
  
  - 🌱 I’m currently learning **for more Frontend Framework like ReactJS, Angular, NextJS**<br/>
 
- - 🤖 Like game and anime but want to practice some skills in badminton 🏸 and basketball 🏀<br/>
+ - 🤖 Like games and anime but want to practice some skills in badminton 🏸 and basketball 🏀<br/>
 
  - ☁️ Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
  
- - 💭 If you have any question just ask me. I would love to answer any question that you are asking for<br/>
+ - 💭 If you have any questions ask me. I would love to answer any question that you are asking for<br/>
 
  - 📫 Feel free to reach me out **vouyen2042@gmail.com**
 
@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,devto,css,postgres,express,redis,github,html,js,flutter,dart,md,nginx,mysql,sqlite,nodejs,postman,py,react,tailwind,ts,vscode,notion,jquery,npm,ps,pr &perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,devto,css,postgres,express,redis,github,html,js,flutter,dart,md,mysql,sqlite,nodejs,postman,py,react,tailwind,ts,vscode,notion,jquery,npm &perline=14" />
   </a>
 </p>
 
@@ -61,5 +61,5 @@
 <p>
 - Credit: <a href="https://github.com/1010nishant/" target="blank">1010nishant</a> & <a href="https://github.com/xsol05/" target="blank">xsol05</a>
 </p> 
-- Last update: 16/8/2024
+- Last update: 12/9/2024
 
