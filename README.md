@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,devto,css,postgres,express,redis,github,html,js,flutter,dart,md,mysql,sqlite,nodejs,postman,py,react,tailwind,ts,vscode,notion,jquery,npm &perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,devto,css,postgres,express,github,html,js,md,mysql,sqlite,nodejs,postman,py,react,tailwind,ts,vscode,notion,jquery,npm &perline=14" />
   </a>
 </p>
 
@@ -61,5 +61,5 @@
 <p>
 - Credit: <a href="https://github.com/1010nishant/" target="blank">1010nishant</a> & <a href="https://github.com/xsol05/" target="blank">xsol05</a>
 </p> 
-- Last update: 12/9/2024
+- Last update: 31/12/2024
 
