@@ -23,10 +23,12 @@
 ## 📊 GitHub Stats
 <!--- stats (start) -->
 <table align="center">
-<tr border="none">
+<!-- <tr border="none">
 <td width="50%" align="center">
- <img src="https://raw.githubusercontent.com/TRKUyen/TRKUyen/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</td>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TRKUyen&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app?user=TRKUyen&theme=dark" /> 
+</td> -->
 
 <td width="50%" align="center">
 
